@@ -1,9 +1,9 @@
 close all
 clearvars
 x=input('Enter x:     ')
-%x=sin(2*pi*0.1.*(1:1:11)); 
+% sample input x -> sin(2*pi*0.1.*(1:1:11))
 h=input('Enter h:   ')
-h=[1 2 3 4 5 3 1 -1];
+% sample input h -> [1 2 3 4 5 3 1 -1];
 % convolution
 m=length(x);
 n=length(h);
