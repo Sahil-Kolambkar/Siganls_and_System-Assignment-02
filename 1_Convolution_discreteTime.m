@@ -1,7 +1,7 @@
 % Matlab code for Convolution in Discrete time 
 
-%sample input for x -> sin(2*pi*0.1.*(1:1:11))
-%sample input for h -> [1 2 3 4 5 3 1 -1]
+% sample input for x -> sin(2*pi*0.1.*(1:1:11))
+% sample input for h -> [1 2 3 4 5 3 1 -1]
 
 close all
 clearvars
